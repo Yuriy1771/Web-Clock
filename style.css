@@ -7,7 +7,6 @@
     }
 
 .container {
-    border: 1px solid black;
     width: 95%;
     height: 100vh;
     margin: auto;
@@ -23,7 +22,7 @@
     padding: 10px;
     border-radius: 5px;
     color: white;
-    background: rgba(0, 0, 0, 0.144);
+    background: rgba(0, 0, 0, 0.103);
 }
 
 .webClock h1{
